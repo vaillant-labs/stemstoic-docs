@@ -2,30 +2,29 @@
 
 ![](../assets/1.png)
 
-O estoicismo me ajudou a atravessar alguns dos períodos mais difíceis da minha vida. Não sou um filósofo e muito menos um acadêmico. Sou apenas alguém que descobriu Marcus Aurelius num momento difícil e não parou mais de ler sobre Estoicismo.
+A maioria dos apps de estoicismo são cheios de citações geradas em massa por IA, mal atribuídas, sem contexto ou simplesmente sem nexo nehum. O Stemstoic existe por isso.
 
-Em um certo momento comecei a procurar um app que levasse a sério o conteúdo dos livros. A maioria dos que encontrei tinha citações geradas por IA, mal atribuídas ou completamente sem nexo ou contexto. Então decidi construir o meu próprio.
+Cada citação aqui vem de um livro físico real, lido e marcado por uma pessoa real. Escolhida porque realmente significou algo. Explicada em linguagem simples. Traduzida "à mão".
 
 ![](../assets/3.png)
 
-O Stemstoic é um projeto solo. Fiz tudo do zero, sozinho. Cada citação do app vem de um livro físico que li e marquei. Eu escolho a citação, reflito sobre ela, escrevo a explicação e traduzo para português. Sem importações "em massa", nada gerado por IA.
+O estoicismo me ajudou a passar por um dos períodos mais difíceis da minha vida... Construí esse app porque queria algo em que pudesse realmente confiar e porque não encontrei isso em nenhum outro lugar.
 
----
+<br/>
 
 ## Como as citações são adicionadas
 
 ![](../assets/4.png)
 
-Eu Passo pelos livros um de cada vez. Quando uma citação me chama a atenção, quando sinto que preciso refletir sobre ela, eu a marco. Depois volto, extraio a citação, escrevo uma explicação simples do que ela significa pra mim e adiciono a fonte.
+Os livros são lidos um de cada vez. Quando gosto da mensagem de uma citação, marco para que mais tarde eu possa revisá-la, explicá-la em linguagem simples e adicioná-la ao app com seu contexto completo.
 
-Leva tempo? sim!
-Mas tudo bem, é esse o ponto.
+Leva tempo, sim. Mas é esse o ponto.
 
 ![](../assets/5.png)
 
----
+<br/>
 
-## A "biblioteca" até agora
+## A biblioteca até agora
 
 ![](../assets/6.png)
 
@@ -35,16 +34,18 @@ Mas tudo bem, é esse o ponto.
 - Musonius Rufus — *Lectures & Sayings*
 - Hierocles — *Elements of Ethics*
 
----
+<br/>
 
 ## Feito por 1 pessoa
 
 ![](../assets/7.png)
 
-Cada linha de código, cada citação traduzida, cada explicação foi escrita por mim. O Stemstoic não é uma empresa. É um projeto pessoal pelo qual tenho muito carinho ❤️
+Cada linha de código, cada citação traduzida, cada explicação, tudo foi escrito por uma pessoa. O Stemstoic NÃO é uma empresa. É um projeto pessoal ❤️
 
 ![](../assets/8.png)
 
----
+<br/>
 
-*Cada citação é manualmente selecionada, traduzida e explicada por um humano (Matt Vaillant).*
+*Cada citação é manualmente selecionada, traduzida e explicada por um humano (Matt Vaillant)*
+
+**TLDR**: ❌🤖 - ✅👨

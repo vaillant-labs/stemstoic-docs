@@ -2,28 +2,27 @@
 
 ![](../assets/1.png)
 
-Stoicism helped me get through some of the hardest periods of my life. I'm not a philosopher or an academic. I'm just someone who learned about Marcus Aurelius at a low point and didn't stop reading about Stoicism.
+Most Stoic apps are full of mass AI generated quotes, poorly attributed, or completely stripped of context or non-sense. Stemstoic exists for that reason.
 
-At some point I started looking for an app that took the source material seriously. Most of what I found was either full of AI generated quotes, poorly attributed, or completely no-sense or stripped of context. So I built my own.
+Every quote here comes from a physical book, read and highlighted by a real person. Chosen because it actually meant something. Explained in plain language. Translated by hand.
 
 ![](../assets/3.png)
 
-Stemstoic is a solo project. I built it from scratch, by myself. Every quote in the app comes from a physical book I read and highlighted. I choose it, think about it, write the explanation, and translate it (into Portuguese) myself. No crazy bulk imports, no AI slop mass generation.
+Stoicism has helped me through some of the hardest periods of my life... I built this app because I wanted something I could actually trust and because I couldn't find it anywhere else.
 
----
+<br/>
 
 ## How quotes are added
 
 ![](../assets/4.png)
 
-I work through the books one by one. When a passage stops me, when I feel like I need to sit with it, I highlight it. Later I go back, extract the quote, write a plain language explanation of what it means to me, and add the source.
+The books are read one by one. When I like the message of the quote, I highlight it so later I can review it, explain it in simple language, and the quote created in the app with full context.
 
-It takes time? yes!
-But it's ok, that's the point.
+It takes time, yes. But that's the point.
 
 ![](../assets/5.png)
 
----
+<br/>
 
 ## The library so far
 
@@ -35,16 +34,18 @@ But it's ok, that's the point.
 - Musonius Rufus — *Lectures & Sayings*
 - Hierocles — *Elements of Ethics*
 
----
+<br/>
 
 ## Built by 1 person
 
 ![](../assets/7.png)
 
-Every line of code, every translated quote, every explanation is written by me. Stemstoic is not a company. It's a personal project I care about ❤️
+Every line of code, every translated quote, every explanation, it's all written by one person. Stemstoic is NOT a company. It's a personal project ❤️
 
 ![](../assets/8.png)
 
----
+<br/>
 
-*Every quote is manually curated, translated, and explained by a human (Matt Vaillant).*
+*Every quote is manually curated, translated, and explained by a human (Matt Vaillant)*
+
+**TLDR**: ❌🤖 - ✅👨
