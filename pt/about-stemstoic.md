@@ -6,7 +6,7 @@ O estoicismo me ajudou a atravessar alguns dos períodos mais difíceis da minha
 
 Em um certo momento comecei a procurar um app que levasse a sério o conteúdo dos livros. A maioria dos que encontrei tinha citações geradas por IA, mal atribuídas ou completamente sem nexo ou contexto. Então decidi construir o meu próprio.
 
-![](../assets/2.png)
+![](../assets/3.png)
 
 O Stemstoic é um projeto solo. Fiz tudo do zero, sozinho. Cada citação do app vem de um livro físico que li e marquei. Eu escolho a citação, reflito sobre ela, escrevo a explicação e traduzo para português. Sem importações "em massa", nada gerado por IA.
 
@@ -25,15 +25,7 @@ Mas tudo bem, é esse o ponto.
 
 ---
 
-## A primeira citação adicionada
-
-![](../assets/3.png)
-
-Livro II, verso 1 de *Meditações* de Marcus Aurelius. A primeira citação que marquei.
-
----
-
-## A biblioteca até agora
+## A "biblioteca" até agora
 
 ![](../assets/6.png)
 
@@ -45,7 +37,7 @@ Livro II, verso 1 de *Meditações* de Marcus Aurelius. A primeira citação que
 
 ---
 
-## Construído por uma pessoa
+## Feito por 1 pessoa
 
 ![](../assets/7.png)
 

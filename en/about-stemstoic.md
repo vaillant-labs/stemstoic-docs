@@ -6,7 +6,7 @@ Stoicism helped me get through some of the hardest periods of my life. I'm not a
 
 At some point I started looking for an app that took the source material seriously. Most of what I found was either full of AI generated quotes, poorly attributed, or completely no-sense or stripped of context. So I built my own.
 
-![](../assets/2.png)
+![](../assets/3.png)
 
 Stemstoic is a solo project. I built it from scratch, by myself. Every quote in the app comes from a physical book I read and highlighted. I choose it, think about it, write the explanation, and translate it (into Portuguese) myself. No crazy bulk imports, no AI slop mass generation.
 
@@ -25,14 +25,6 @@ But it's ok, that's the point.
 
 ---
 
-## The first quote ever added
-
-![](../assets/3.png)
-
-Book II, verse 1 of Marcus Aurelius's *Meditations*. The first quote I ever highlighted.
-
----
-
 ## The library so far
 
 ![](../assets/6.png)
@@ -45,7 +37,7 @@ Book II, verse 1 of Marcus Aurelius's *Meditations*. The first quote I ever high
 
 ---
 
-## Built by one person
+## Built by 1 person
 
 ![](../assets/7.png)
 
